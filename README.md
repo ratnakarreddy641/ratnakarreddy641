@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ratnakarreddy641
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me - Telegram @ratnu641
