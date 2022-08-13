@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ratnakarreddy641
+- 👋 Hi, I’m Ratnakar
+- 👷‍♂️ SAP UI5 Developer @ Accenture
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React.js
+- 🤖 Android Developer
+- 🌱 I’m currently learning Web3
 - 📫 How to reach me - Telegram @ratnu641
