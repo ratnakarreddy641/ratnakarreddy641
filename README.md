@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ratnakar
-- 👷‍♂️ SAP UI5 Developer @ Accenture
+- 👷‍♂️ Application Developer Analyst @ Accenture
 - 👀 I’m interested in Software Development
 - 🤖 Android Developer
 - 🌱 I’m currently learning Web3
