@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ratnakar
-- 👷‍♂️ Application Developer Analyst @ Accenture
+- 👷‍♂️ Application Development Analyst @ Accenture
 - 👀 I’m interested in Software Development
 - 🤖 Android Developer
 - 🌱 I’m currently learning Web3
